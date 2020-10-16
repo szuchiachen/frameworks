@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+h1.display-4 {
+    font-weight: 500;
+    color: #403F4C;
+}
+p.lead {
+    font-size: 18px;
+    line-height: 21px;
+    color: #403F4C;
+}
+a.navbar-brand {
+    font-size: 18px;
+    line-height: 21px;
+    color: #403F4C;
+    position: absolute;
+    width: 116px;
+    height: 21px;
+    left: 79px;
+    top: 38px;
+}
+section.jumbotron {
+margin-bottom: 0px;
+padding-bottom: 0px;
+    background-color: transparent;
+    background: linear-gradient(180deg, #FFFFFF 0%, #EEF0F2 100%);
+}
+
+div.section-background {
+    padding: 0px;
+    background: #28363E;
+}
+/* div.image-container {
+    max-width: 487px;
+    margin: 0 auto;
+
+} */
+img.section-image {
+    max-width: 1140px;
+}
+
+/* @media (min-width:320px) {
+    img.section-image {
+        max-width: 100px;
+    }
+    h1.display-4 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+}
+
+@media (min-width:801px) {
+    img.section-image {
+        max-width: 487.45px;
+    }
+    h1.display-4 {
+        font-size: 48px;
+        line-height: 56px;
+    }
+} */
+div.arrow-container {
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+p.caption {
+    margin-top: 8px;
+    font-size: 12.8px;
+    margin-bottom: 61px;
+
+}
